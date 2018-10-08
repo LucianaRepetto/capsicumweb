@@ -45,7 +45,8 @@ body a, body input, body button
 
 body a:hover
 {
-    color: #aaa6a0;
+    color: #e02c14;
+    cursor: default;
 }
 
 .queryloader__overlay__bar
@@ -807,7 +808,8 @@ body.blog .more-posts
 
 .single-post-shortcode .cat-links li a:hover
 {
-    color: #aaa6a0;
+    color: #f02f0d;
+    cursor: default;
 }
 
 .single-post-shortcode .cat-links li:after
