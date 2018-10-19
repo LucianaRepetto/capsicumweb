@@ -922,6 +922,11 @@ ul.archive-list li span
     opacity: 1;
 }
 
+.arrow{
+    
+    padding-left: 80px;
+}
+
 /* END CONTACT */
 
 
@@ -1001,7 +1006,7 @@ li.right-footer-contnet
 li.right-footer-contnet a
 {
     margin-left: 20px;
-    font-size: 16px;
+    font-size: 18px;
     display: inline-block;
 }
 
@@ -1022,6 +1027,12 @@ li.left-footer-content.mobile
     display: none;
 }
 
+.edit_hover_class i{
+    visibility:hidden;
+  }
+.edit_hover_class:hover i {
+   visibility:visible;
+  }
 /* END FOOTER */
 
 
